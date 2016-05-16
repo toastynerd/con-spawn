@@ -13,9 +13,9 @@ conSpawn('myAwesomeShellScript', [], 'it worked!', 'it failed')
   });
 ```
 conSpawn(command[,args][,success condition][,fail condition][,options])
-  * command <String> the command to run
-  * args <Array> array of arguments to command
-  * success condition <String> string that signifies success
-  * fail condition <String> string that signifies failure
-  * options <Object>
-    * timeout <Number> time to wait for a failure or success
+  * command `<String>` the command to run
+  * args `<Array>` array of arguments to command
+  * success condition `<String>` string that signifies success
+  * fail condition `<String>` string that signifies failure
+  * options `<Object>`
+    * timeout `<Number>` time to wait for a failure or success
