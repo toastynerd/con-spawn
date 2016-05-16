@@ -1,0 +1,19 @@
+{
+  "name": "con-spawn",
+  "version": "1.0.0",
+  "description": "a conditional spawner that returns a promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toastynerd/con-spawn.git"
+  },
+  "author": "tyler@codefellows.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toastynerd/con-spawn/issues"
+  },
+  "homepage": "https://github.com/toastynerd/con-spawn#readme"
+}
