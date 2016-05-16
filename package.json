@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/toastynerd/con-spawn/issues"
   },
-  "homepage": "https://github.com/toastynerd/con-spawn#readme"
+  "homepage": "https://github.com/toastynerd/con-spawn#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
